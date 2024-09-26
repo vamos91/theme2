@@ -1,0 +1,16 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "theme 15",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
